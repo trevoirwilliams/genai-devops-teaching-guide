@@ -1,6 +1,6 @@
 # genai-devops-teaching-guide
 
-This is a starter repo intentionally missing infra/pipelines/docs that will be built during live demos.
+This is the finished project for the lessons, including the infra/pipelines/docs built during the live demos.
 
 ## Prereqs
 - .NET 10 SDK
@@ -15,7 +15,7 @@ dotnet build
 dotnet test
 ```
 
-## Demos will add:
+## Included from the demos:
 - Bicep
 - Workflows
 - Policies
