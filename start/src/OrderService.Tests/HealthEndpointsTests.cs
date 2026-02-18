@@ -1,3 +1,5 @@
+using Xunit;
+
 namespace OrderService.Tests;
 
 public sealed class HealthEndpointsTests
